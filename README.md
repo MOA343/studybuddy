@@ -95,7 +95,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🙏 Acknowledgements
+## Acknowledgements
 
 - [Google Cloud Speech-to-Text](https://cloud.google.com/speech-to-text)
 - [OpenAI](https://openai.com/)
@@ -105,4 +105,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-Created with ❤️ by [Muhammad Abbasi, Ibrahim Ali and Rafsan Mahmud]
+Created by [Muhammad Abbasi, Ibrahim Ali and Rafsan Mahmud]
